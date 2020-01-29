@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8a273d1d.chunk.css",
+    "main.js": "/static/js/main.f11f82a1.chunk.js",
+    "main.js.map": "/static/js/main.f11f82a1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.07f2b4da.js",
+    "runtime-main.js.map": "/static/js/runtime-main.07f2b4da.js.map",
+    "static/js/2.337a7a5b.chunk.js": "/static/js/2.337a7a5b.chunk.js",
+    "static/js/2.337a7a5b.chunk.js.map": "/static/js/2.337a7a5b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8e2242c57da6f39c96f26ff4c7e2186a.js": "/precache-manifest.8e2242c57da6f39c96f26ff4c7e2186a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8a273d1d.chunk.css.map": "/static/css/main.8a273d1d.chunk.css.map",
+    "static/js/2.337a7a5b.chunk.js.LICENSE": "/static/js/2.337a7a5b.chunk.js.LICENSE",
+    "static/media/index.css": "/static/media/desk-white-black-header.52357210.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07f2b4da.js",
+    "static/js/2.337a7a5b.chunk.js",
+    "static/css/main.8a273d1d.chunk.css",
+    "static/js/main.f11f82a1.chunk.js"
+  ]
+}
